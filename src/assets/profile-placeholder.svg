@@ -1,0 +1,10 @@
+<svg width="600" height="760" viewBox="0 0 600 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="760" rx="36" fill="#F4EEFF"/>
+  <rect x="60" y="72" width="480" height="616" rx="28" fill="white" stroke="#D9C8FF" stroke-width="2"/>
+  <circle cx="300" cy="286" r="124" fill="#CDB8FF"/>
+  <path d="M182 562C197.6 482.8 247.4 434 300 434C352.6 434 402.4 482.8 418 562" fill="#A786EC"/>
+  <rect x="184" y="172" width="232" height="58" rx="29" fill="#7C4DFF" fill-opacity="0.18"/>
+  <rect x="184" y="242" width="184" height="22" rx="11" fill="#8C6BE3" fill-opacity="0.32"/>
+  <rect x="184" y="276" width="144" height="16" rx="8" fill="#8C6BE3" fill-opacity="0.24"/>
+  <text x="300" y="684" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#4B3B6A">[PROFILE IMAGE]</text>
+</svg>
