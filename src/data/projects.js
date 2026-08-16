@@ -1,4 +1,4 @@
-import profile from '../assets/profile.jpg'
+import profile from '../assets/newprofile.jpg'
 
 import ukmateImage from '../assets/ukmate.png'
 import ss1 from '../assets/ss1.png'
